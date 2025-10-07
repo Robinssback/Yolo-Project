@@ -1,0 +1,9 @@
+path: C:/Users/melis/OneDrive/Masaüstü/yoloproject/datasets/combined
+train: train/images
+val: valid/images
+
+names:
+  0: plant
+  1: animal
+  2: person
+
